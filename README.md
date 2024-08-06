@@ -2,9 +2,6 @@
 
 ![Application Logo](https://storage.googleapis.com/msgsndr/0wtSXexlPhMN1945ooxW/media/65b7c3d24660477daf3d6708.png)
 
-## Get all the help you need
-Share all bugs and solutions in the discord. Would love to collaborate and get to know talented developers like yourself. 
-[Discord](https://discord.gg/GG4wJkxh)
 
 ### Features in this application.
 - 🤯 Multivendor B2B2B Saas
