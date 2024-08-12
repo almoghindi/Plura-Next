@@ -1,4 +1,4 @@
-# SaaS Website Builder, Project Management And Dashboard With Stripe using Nextjs14, Bun, Stripe Connect, Prisma, MySQL, Tailwind
+# SaaS Website Builder, Project Management And Dashboard With Stripe using Next.js, TypeScript, Tailwind CSS, Stripe Connect, Prisma and MySQL.
 
 ![Application Logo](https://storage.googleapis.com/msgsndr/0wtSXexlPhMN1945ooxW/media/65b7c3d24660477daf3d6708.png)
 
